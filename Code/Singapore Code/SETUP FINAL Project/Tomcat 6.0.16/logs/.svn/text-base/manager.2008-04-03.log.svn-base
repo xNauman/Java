@@ -1,0 +1,878 @@
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context20692.xml'
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context20705.xml'
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context20706.xml'
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51161.xml'
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51162.xml'
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51163.xml'
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:32:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51164.xml'
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51165.xml'
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51166.xml'
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context51167.xml'
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39433.xml'
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39434.xml'
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39435.xml'
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39436.xml'
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39437.xml'
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39438.xml'
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39439.xml'
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39440.xml'
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39441.xml'
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39442.xml'
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39443.xml'
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:18:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:18:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39444.xml'
+Apr 3, 2008 1:18:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39445.xml'
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39446.xml'
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39447.xml'
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39448.xml'
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39449.xml'
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39450.xml'
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39451.xml'
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39452.xml'
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39453.xml'
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39454.xml'
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:43:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:43:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:43:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:43:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39455.xml'
+Apr 3, 2008 1:43:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 1:43:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:43:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 1:43:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 1:43:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context39456.xml'
+Apr 3, 2008 1:43:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 6:13:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 6:13:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 6:13:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 6:13:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 6:13:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 6:13:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context45448.xml'
+Apr 3, 2008 6:15:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 6:15:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25461.xml'
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25462.xml'
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:17:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:17:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:17:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:17:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25463.xml'
+Apr 3, 2008 7:17:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25464.xml'
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25465.xml'
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:23:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:23:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:23:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:23:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25466.xml'
+Apr 3, 2008 7:23:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:23:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:23:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25467.xml'
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25468.xml'
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25469.xml'
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25470.xml'
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context25471.xml'
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context7392.xml'
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context7393.xml'
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context7394.xml'
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context7395.xml'
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:25:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 8:26:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 8:26:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 8:30:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: stop: Stopping web application at '/Setup'
+Apr 3, 2008 8:30:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:31:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: stop: Stopping web application at '/Setup'
+Apr 3, 2008 8:31:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:38:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:39:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:39:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context7396.xml'
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 8:59:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:00:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:09:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 9:09:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 9:09:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 9:09:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 9:10:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application at '/Setup'
+Apr 3, 2008 9:11:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: stop: Stopping web application at '/Setup'
+Apr 3, 2008 9:11:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 9:16:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:17:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:51:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61011.xml'
+Apr 3, 2008 9:51:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 9:54:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:54:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:54:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:54:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61012.xml'
+Apr 3, 2008 9:54:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61013.xml'
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61014.xml'
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61015.xml'
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:08:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61016.xml'
+Apr 3, 2008 10:08:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:12:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:12:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:12:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61017.xml'
+Apr 3, 2008 10:12:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:15:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:15:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61018.xml'
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:20:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:20:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:20:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:20:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:20:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:20:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61019.xml'
+Apr 3, 2008 10:20:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:24:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61020.xml'
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61021.xml'
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:30:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:30:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61022.xml'
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 10:33:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:33:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61023.xml'
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61024.xml'
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:11:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:11:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:11:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:11:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61025.xml'
+Apr 3, 2008 11:11:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:17:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:17:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61026.xml'
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:25:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:25:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61027.xml'
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:29:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:29:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61028.xml'
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'
+Apr 3, 2008 11:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:39:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Setup'
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/DOCUME~1/chak0003/LOCALS~1/Temp/context61029.xml'
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application at '/Setup'

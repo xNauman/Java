@@ -1,0 +1,12 @@
+compile.on.save=false
+do.depend=false
+do.jar=true
+file.reference.jdic.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/jdic.jar
+file.reference.jdic_native_applet.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/jdic_native_applet.jar
+file.reference.jdic_stub_windows.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/jdic_stub_windows.jar
+file.reference.Map_Object.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/Map_Object.jar
+file.reference.ObjectSerialize.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/ObjectSerialize.jar
+file.reference.RMI.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/ITC_CME/Code/CME_Final/lib/RMI.jar
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/Users/caveman/.netbeans/6.7/build.properties

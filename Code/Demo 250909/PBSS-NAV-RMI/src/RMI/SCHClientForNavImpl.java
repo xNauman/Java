@@ -1,0 +1,276 @@
+/**
+ * 
+ */
+package RMI;
+
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.rmi.NotBoundException;
+import java.rmi.RMISecurityManager;
+import java.rmi.RemoteException;
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+import java.util.Scanner;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+import javax.swing.event.DocumentEvent;
+import javax.swing.event.DocumentListener;
+import javax.swing.text.BadLocationException;
+
+//import chat.gui.client.SCHClientForNavImpl;
+
+/**
+ * @author Raja Noman Saeed
+ *
+ */
+public class SCHClientForNavImpl    {
+
+	Registry mRemoteRegistry;
+	protected  SCHServer mServerObject;
+	private String mServerAddress = "127.0.0.1";
+	private String mServerPort = "1234";
+	
+	private String mConsoleString = "";
+	private String mServerMessage = "";
+	
+	Scanner mCInput =null;
+	
+	private JTextArea mConvoArea = null;
+	private JTextField mFieldForMessage = null;
+    private JButton mSendButton = null;
+    
+    private JFrame  mMainFrame;
+    private JPanel mSouthPane = null;
+    private JPanel mContentPane =null;
+    private SCHClientForNavImpl mClientRMIInfo = null;
+//	private String  mEventID = "";
+	private String mMessageToRMI = " ";
+	
+	
+	//private String mServerAddress = "127.0.0.1";
+	//private String mServerPort = "1234";
+	
+	//private String mConsoleString = "";
+	//private String mServerMessage = "";
+	
+	
+	public void ChatWindowInterface() {	
+		/**
+		 * setting up main frame.
+		 */
+			
+		mMainFrame = new JFrame();
+			mMainFrame.setTitle("Chat Window");
+			mMainFrame.setSize(new Dimension(400,600));
+			mMainFrame.setResizable(false);
+	
+	mContentPane = new JPanel();
+	 	mContentPane.setSize(250, 200);
+	 	
+	
+	mSouthPane = new JPanel();
+	
+	mConvoArea = new JTextArea();
+			mConvoArea.setPreferredSize(new Dimension(300,300));
+			mConvoArea.setEditable(false);
+			
+	/**
+	 * initialize button		
+	 */
+			
+	mFieldForMessage = new JTextField(20);
+		mFieldForMessage.
+						getDocument().
+									 addDocumentListener(
+											 new DocumentListener(){
+
+												 public void changedUpdate(DocumentEvent de) {
+												 	// TODO Auto-generated method stub
+												 	int vTotalChar = de.getDocument().getLength();
+												 	String vStr="";
+												 	
+												 	try {
+												 		vStr = de.getDocument().getText(0, vTotalChar);		
+												 		mMessageToRMI = vStr; 
+												 		System.out.println(vStr);
+												 		
+												 	} catch (BadLocationException e1) {
+												 		e1.printStackTrace();
+												 	}
+												 }
+
+												 //@Override
+												 public void insertUpdate(DocumentEvent de) {
+												 	// TODO Auto-generated method stub
+												 	int vTotalChar = de.getDocument().getLength();
+												 	String vStr="";
+												 	//System.out.println(vStr);
+												 	try {
+												 		vStr = de.getDocument().getText(0, vTotalChar);
+												 		//System.out.println(vStr);
+												 		mMessageToRMI = vStr;
+												 		
+												 	} catch (BadLocationException e1) {
+												 		
+												 		e1.printStackTrace();
+												 	}
+												 	
+												 }
+												 //@Override
+												 public void removeUpdate(DocumentEvent de) {
+												 	// TODO Auto-generated method stub
+												 	int vTotalChar = de.getDocument().getLength();
+												 	String vStr="";
+												 	//System.out.println(vStr);
+												 	try {
+												 		vStr = de.getDocument().getText(0, vTotalChar);
+												 		//System.out.println(vStr);
+												 		mMessageToRMI = vStr;
+												 		
+												 	} catch (BadLocationException e1) {
+												 		
+												 		e1.printStackTrace();
+												 	}
+												 	
+												 	
+												 }
+
+											 }
+											 );
+	 	
+	
+	//initialize button.
+		
+	mSendButton = new JButton();
+		mSendButton.setText("Send");
+		mSendButton.addActionListener(			
+						new ActionListener(){		
+								public void actionPerformed(ActionEvent e){
+										//System.out.println("Send Button is clicked:"+ mMessageToRMI);
+								
+									//mClientRMIInfo.setMessage(mMessageToRMI);
+									
+									
+									String vResponce ="";
+									try {
+										TalkToServer();
+									} catch (RemoteException e1) {
+										// TODO Auto-generated catch block
+										e1.printStackTrace();
+									} catch (NotBoundException e1) {
+										// TODO Auto-generated catch block
+										e1.printStackTrace();
+									}
+									
+									mConvoArea.append("\n Client>"+mServerMessage);
+									
+									mFieldForMessage.setText("");	
+								    mFieldForMessage.requestFocusInWindow();		
+								    
+								}
+											}
+									);
+	    
+		//setting up the layout of the south panel components.
+	mSouthPane.setLayout( new BorderLayout() );
+	mSouthPane.add( mFieldForMessage,BorderLayout.CENTER );
+	mSouthPane.add( mSendButton,BorderLayout.EAST);
+	
+	//adding text area.
+	mContentPane.add(mConvoArea,BorderLayout.CENTER);
+	
+	//adding South Panel.
+	mContentPane.add(mSouthPane,BorderLayout.SOUTH);
+	
+	//set the content pane for main frame.
+	mMainFrame.setContentPane(mContentPane);
+	
+	mMainFrame.setDefaultCloseOperation(mMainFrame.EXIT_ON_CLOSE);
+	
+	mMainFrame.setVisible(true);
+	
+	this.mFieldForMessage.requestFocusInWindow();
+	
+	}
+	
+	/**
+	 * @param args
+	 */
+
+	private SCHClientForNavImpl() throws RemoteException {
+		super();
+		/**
+	     * get registry location
+	     * */
+		
+		mCInput = new Scanner(System.in);
+	
+	
+		try{
+			System.out.println("Registering server");	
+			//finding the registry.
+			mRemoteRegistry = LocateRegistry.getRegistry(
+					mServerAddress,
+					(new Integer(mServerPort).intValue()));
+			
+			System.out.println("Creating Remote-Object");
+			/**
+			 * get the object from the remote-registry
+			 */		
+
+		mServerObject = (SCHServer)mRemoteRegistry.lookup("SCHServer");
+		
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+		
+		this.ChatWindowInterface();	
+		/*try{
+		TalkToServer();
+		}catch(Exception e){
+			e.printStackTrace();
+		}*/
+
+}
+
+	
+	public void TalkToServer()throws RemoteException, NotBoundException{
+		
+		try{
+		//read text of console.
+		System.out.println("Please Type Client>");
+		mConsoleString  = mCInput.nextLine();
+		//RMI call and get the response.
+        mServerMessage  =  mServerObject.sendToNAV( this.mMessageToRMI);
+		System.out.println(	"Server>"+ mServerMessage);
+		
+}catch(RemoteException e){
+	 e.printStackTrace();
+}
+	    	/*
+	try{
+		TalkToServer();
+	
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+*/
+}
+	
+	
+	public static void main(String[] srgs){
+		
+		try{
+		   SCHClientForNavImpl vClient = new SCHClientForNavImpl();
+		   }catch(Exception e){
+			   
+		   }
+	}
+}

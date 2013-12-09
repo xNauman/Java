@@ -1,0 +1,11 @@
+/* AUTOMATICALLY GENERATED ON Sat Sep 19 03:18:01 GMT 2009*/
+/* DO NOT EDIT */
+
+grant {
+  permission java.security.AllPermission;
+};
+
+grant {
+  permission java.security.AllPermission;
+};
+

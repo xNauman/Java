@@ -1,0 +1,16 @@
+INFO	App Ops	100	Main Call Application Thread Started
+INFO	App Ops	101	Main Call Application Thread Started
+INFO 	App Ops 110 Main Application (Local Control) Thread Started
+INFO	App Ops	111	Main Application (Local Control) Thread Ended
+INFO	App Ops	120	Remote Control Thread Started
+INFO	App Ops	121	Remote Control Thread Ended
+INFO	App Ops	130	Traffic Light Control Thread Started
+INFO	App Ops	131	Traffic Light Control Thread Ended
+INFO	App Ops	140	Route Control Thread Started
+INFO	App Ops	141	Route Control Thread Ended
+INFO	Module Ops	100	Pre-Start Requested
+INFO	Module Ops	101 Received PBSS Start Request	RMI_REQUEST
+INFO	Module Ops	102 Received PBSS Stop Request	RMI_REQUEST
+INFO	RMI	100 SCH Server is Binding	RegistryHost|RegistryPort|ObjectName
+ERR	RMI	101	SCH Server Failed to Bind: Already Bound	@SEE_StackTraceFile
+ERR	RMI	102	SCH Server Failed to Bind: Remote Exception	@SEE_StackTraceFile

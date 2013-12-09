@@ -1,0 +1,40 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>CME Custom Google Mapplet</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAADo_adqVVMoUM5maYN0pv-BT2yXp_ZAY8_ufC3CFXhHIE1NvwkxT0wHR7lK-c0Od-4UfmZio2UJGHZA"
+      type="text/javascript"></script>
+    <script type="text/javascript">
+
+    //<![CDATA[
+    function load() {
+      if (GBrowserIsCompatible()) {
+		var options = {
+			resultList : G_GOOGLEBAR_RESULT_LIST_SUPPRESS,
+			suppressZoomToBounds : true,
+			searchFormHint : "Type here to search New location"};
+	  
+		var map = new GMap2(document.getElementById("map"), {googleBarOptions: options});
+        map.setCenter(new GLatLng(1.325773, 103.67198), 17);
+		map.disableDoubleClickZoom();
+		map.enableGoogleBar();
+      }
+    }
+
+	
+	function saveMap(){
+		var lat = map.getCenter().lat();
+		var lng = map.getCenter().lng(); 
+		saveImageAs(document.getElementById("map"));
+		
+	}
+	
+    //]]>
+</script>
+</head>
+  
+   
+<body leftmargin="0" topmargin="0" onload="load()" style="overflow: hidden">
+    <div id="map" style="width:1024px;height:825px;"></div>
+</body>
+</html>

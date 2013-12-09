@@ -1,0 +1,14 @@
+#Route ID
+:RID=1
+#Frequency (for this file, in seconds)
+:FREQ=20
+#Bus Count (number of buses needed)
+:BC=4
+#Start Route Points in order:
+~0,0
+~5,10
+~10,20
+~30,40
+~45,62
+
+

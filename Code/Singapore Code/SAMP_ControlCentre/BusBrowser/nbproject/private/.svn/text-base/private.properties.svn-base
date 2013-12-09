@@ -1,0 +1,7 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+file.reference.jdic.jar=/Users/caveman/Documents/Uni/Project/ics-svn/comp34xProjectgroup01/Semester2/Code/Singapore Code/SAMP_ControlCentre/jdic-0.9.4-bin-windows/jdic.jar
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/Users/caveman/.netbeans/6.7/build.properties

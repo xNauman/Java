@@ -1,0 +1,23 @@
+From Email:
+
+From: YUFENG LI 
+Sent: Sunday, November 01, 2009 7:00 PM
+To: isys346@gmail.com 
+Cc: Meetanshru ; Meetanshru ; Rohit ; Rohit ; Clement Soh 
+Subject: RE: PBSS-SG-RMI: CC IP Registration
+
+**
+
+Here's the latest and FINAL version of the registration program. what I can promise here is, as long as you do not made any further changes to the client program, we'll be responsible for any error caused by it.
+
+
+the attachment contains 3 folders and 1 file:
+1. CCRegistry - the latest version of registration program
+2. testing - testing sample for you to try out. I only managed to test with 1 server and 2 clients as our lab is closed on weekend. It worked perfect fine when I started/stopped them in different sequences.
+3. CC_ver5.0_wo GUI - this is part of CC. For the fully integrate CC, there are currently 6 packages: 
+a. cc.simulator - contains the GUI, the clock, the browser and image display program. I have removed it as we don't think it would be used by any subsystem.
+b. cc.registry - the registration program that will broadcast and receive responses from the other subsystems
+c. cc.rmi - the implementations of CC interface and will also create the RMI server. I just remove the implementations of RMIClients as it will definitely not used by any other subsystems and also it's not fully completed version.
+d. rawobjects and rmi_interfaces - used as libraries
+e. cc.images - all the images CC will used, which I also removed
+4. readme.txt - it will introduce the differences between the CC_ver5.0_wo GUI and the testing/server

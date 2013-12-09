@@ -1,0 +1,1240 @@
+Apr 3, 2008 12:00:29 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 12:00:31 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:00:32 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:00:32 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:09:16 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:09:16 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:09:16 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 476 ms
+Apr 3, 2008 12:09:16 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:09:16 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:09:17 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:09:17 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:09:17 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 12:09:17 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 676 ms
+Apr 3, 2008 12:09:17 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:09:17 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:11:25 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:11:26 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:11:26 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 12:11:27 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 12:11:28 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 12:11:28 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:14:26 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:14:26 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:14:26 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 516 ms
+Apr 3, 2008 12:14:26 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:14:26 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:14:27 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:14:27 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:14:27 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 12:14:27 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 698 ms
+Apr 3, 2008 12:14:27 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:14:27 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:19:40 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:19:40 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:20:40 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:20:41 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:20:41 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:21:30 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:21:30 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:21:30 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 457 ms
+Apr 3, 2008 12:21:30 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:21:30 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:21:31 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:21:31 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:21:31 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 12:21:31 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 795 ms
+Apr 3, 2008 12:21:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:21:31 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:22:00 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:22:00 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:30:10 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:30:11 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:30:11 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:32:08 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:32:08 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:32:08 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 520 ms
+Apr 3, 2008 12:32:08 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:32:08 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:32:08 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:32:08 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:32:09 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:32:09 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:32:09 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 12:32:09 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 761 ms
+Apr 3, 2008 12:32:09 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:32:09 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:32:49 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:32:49 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:33:09 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:33:10 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:33:10 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:33:14 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:33:14 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:33:14 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 503 ms
+Apr 3, 2008 12:33:14 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:33:14 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:33:15 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:33:15 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:33:15 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:33:15 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:33:15 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Apr 3, 2008 12:33:15 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 734 ms
+Apr 3, 2008 12:33:18 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:33:18 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:34:05 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:34:06 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:34:06 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:34:18 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:34:18 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:34:18 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 440 ms
+Apr 3, 2008 12:34:18 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:34:18 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:34:19 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:34:19 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:34:19 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 12:34:19 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 691 ms
+Apr 3, 2008 12:34:19 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:34:19 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:35:09 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 12:35:53 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:35:53 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:39:22 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:39:23 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:39:23 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:44:54 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:44:54 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:44:54 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 477 ms
+Apr 3, 2008 12:44:54 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:44:54 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:44:55 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:44:55 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:44:55 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 12:44:55 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 755 ms
+Apr 3, 2008 12:44:55 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:44:55 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:45:39 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:45:40 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:45:40 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:47:21 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:47:22 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:47:22 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 493 ms
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:47:22 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:47:22 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:47:22 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/63  config=null
+Apr 3, 2008 12:47:22 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 737 ms
+Apr 3, 2008 12:47:22 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:47:22 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:52:52 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:52:52 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 12:52:53 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:52:53 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:53:37 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:53:37 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:53:37 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 484 ms
+Apr 3, 2008 12:53:37 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:53:37 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:53:37 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:53:37 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:53:37 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:53:38 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:53:38 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 12:53:38 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 777 ms
+Apr 3, 2008 12:53:38 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:53:38 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:56:03 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:56:04 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 12:56:04 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:59:41 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 12:59:41 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:59:41 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 422 ms
+Apr 3, 2008 12:59:41 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 12:59:41 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 12:59:42 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 12:59:42 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 12:59:42 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/94  config=null
+Apr 3, 2008 12:59:42 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 739 ms
+Apr 3, 2008 12:59:42 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 12:59:42 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 12:59:52 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 1:03:02 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 1:03:11 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:03:12 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:03:13 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:03:57 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:03:57 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:03:57 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 438 ms
+Apr 3, 2008 1:03:57 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:03:57 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:03:57 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:03:57 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:03:57 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:03:57 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:03:58 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 1:03:58 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 656 ms
+Apr 3, 2008 1:03:58 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:03:58 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:04:06 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:04:06 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:04:13 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:04:13 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:07:55 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:07:56 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:07:56 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:08:49 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:08:49 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:08:49 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 433 ms
+Apr 3, 2008 1:08:49 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:08:49 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:08:49 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:08:49 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:08:49 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:08:50 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:08:50 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 1:08:50 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 702 ms
+Apr 3, 2008 1:08:50 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:08:50 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:10:05 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:10:06 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:10:07 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:10:10 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:10:10 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:10:10 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 527 ms
+Apr 3, 2008 1:10:10 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:10:10 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:10:11 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:10:11 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:10:11 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:10:11 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:10:11 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/62  config=null
+Apr 3, 2008 1:10:11 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 742 ms
+Apr 3, 2008 1:10:17 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:10:17 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:15:06 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:15:07 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:15:07 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:15:11 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:15:11 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:15:11 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 445 ms
+Apr 3, 2008 1:15:11 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:15:11 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:15:11 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:15:11 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:15:12 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:15:12 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:15:12 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 1:15:12 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 695 ms
+Apr 3, 2008 1:15:16 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:15:16 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:15:50 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:15:50 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:18:13 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:18:14 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:18:14 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:18:48 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:18:48 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 446 ms
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:18:48 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:18:48 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:18:48 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:18:48 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/46  config=null
+Apr 3, 2008 1:18:48 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 700 ms
+Apr 3, 2008 1:18:49 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:18:49 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:19:59 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:19:59 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:22:49 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:22:49 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:23:10 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:11 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:23:11 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:15 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:23:15 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:15 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 550 ms
+Apr 3, 2008 1:23:15 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:23:15 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:23:16 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:23:16 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:23:16 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:16 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:23:16 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 1:23:16 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 802 ms
+Apr 3, 2008 1:23:26 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:27 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:23:27 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:30 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 1:23:30 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:30 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 443 ms
+Apr 3, 2008 1:23:30 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 1:23:30 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 1:23:30 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:23:30 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 1:23:31 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:23:31 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 1:23:31 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 1:23:31 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 690 ms
+Apr 3, 2008 1:23:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:23:31 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:24:19 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:24:19 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:24:51 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:24:51 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:30:04 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:30:04 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:30:20 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:30:20 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 1:30:30 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:30:30 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:37:23 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:37:23 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:41:18 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:41:18 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:43:06 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:43:07 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:43:26 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 1:43:26 AM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 1:45:54 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 1:49:50 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 1:49:51 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 1:49:51 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 6:13:19 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 6:13:19 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 6:13:19 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 736 ms
+Apr 3, 2008 6:13:19 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 6:13:19 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 6:13:20 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 6:13:20 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 6:13:21 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 6:13:21 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 6:13:21 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/35  config=null
+Apr 3, 2008 6:13:21 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1803 ms
+Apr 3, 2008 6:13:22 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 6:19:35 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 6:19:36 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 6:19:36 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:00:36 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:00:36 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:00:36 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 394 ms
+Apr 3, 2008 7:00:36 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:00:36 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:00:37 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:00:37 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:00:37 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:00:37 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 7:00:37 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Apr 3, 2008 7:00:37 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 621 ms
+Apr 3, 2008 7:04:42 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:04:43 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 7:04:43 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:07:18 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:07:18 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:07:18 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 394 ms
+Apr 3, 2008 7:07:18 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:07:18 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:07:19 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:07:19 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:07:19 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:07:19 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 7:07:19 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Apr 3, 2008 7:07:19 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 614 ms
+Apr 3, 2008 7:09:28 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:09:30 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 7:09:30 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:10:03 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:10:03 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:10:03 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 474 ms
+Apr 3, 2008 7:10:03 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:10:03 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:10:03 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:10:03 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:10:03 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:10:03 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 7:10:03 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 7:10:03 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 708 ms
+Apr 3, 2008 7:10:04 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:10:04 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:10:57 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:10:57 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:13:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:15:53 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:17:53 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:17:54 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:17:54 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:18:04 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:18:20 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:18:20 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:19:03 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:19:03 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:23:35 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:23:36 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:25:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:25:26 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:26:18 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:26:18 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:27:49 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:27:49 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:34:24 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:35:17 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:35:18 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 7:35:18 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:35:22 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:35:22 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:35:22 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 485 ms
+Apr 3, 2008 7:35:22 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:35:22 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:35:22 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:35:22 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:35:22 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:35:23 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 7:35:23 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/32  config=null
+Apr 3, 2008 7:35:23 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 782 ms
+Apr 3, 2008 7:38:10 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:38:10 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:39:01 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 7:39:01 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 7:41:23 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:41:24 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 7:41:24 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:41:28 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:41:28 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:41:28 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 450 ms
+Apr 3, 2008 7:41:28 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:41:28 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:41:29 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:41:29 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:41:29 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:41:29 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 7:41:29 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/63  config=null
+Apr 3, 2008 7:41:29 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 722 ms
+Apr 3, 2008 7:58:29 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 7:58:33 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 7:58:33 PM org.apache.coyote.http11.Http11Protocol init
+SEVERE: Error initializing endpoint
+java.net.BindException: Address already in use: JVM_Bind:8085
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:501)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1058)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:677)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:530)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:550)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:260)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:412)
+Apr 3, 2008 7:58:33 PM org.apache.catalina.startup.Catalina load
+SEVERE: Catalina.start
+LifecycleException:  Protocol handler initialization failed: java.net.BindException: Address already in use: JVM_Bind:8085
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1060)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:677)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:530)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:550)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:260)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:412)
+Apr 3, 2008 7:58:33 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 403 ms
+Apr 3, 2008 7:58:33 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 7:58:33 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 7:58:34 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:58:34 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 7:58:34 PM org.apache.coyote.http11.Http11Protocol start
+SEVERE: Error starting endpoint
+java.net.BindException: Address already in use: JVM_Bind:8085
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:501)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:515)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1131)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:531)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:578)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Apr 3, 2008 7:58:34 PM org.apache.catalina.startup.Catalina start
+SEVERE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Protocol handler start failed: java.net.BindException: Address already in use: JVM_Bind:8085
+	at org.apache.catalina.connector.Connector.start(Connector.java:1138)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:531)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:578)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Apr 3, 2008 7:58:34 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 546 ms
+Apr 3, 2008 7:58:34 PM org.apache.catalina.core.StandardServer await
+SEVERE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:359)
+	at java.net.ServerSocket.bind(ServerSocket.java:319)
+	at java.net.ServerSocket.<init>(ServerSocket.java:185)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:642)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:602)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Apr 3, 2008 7:58:34 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:58:34 PM org.apache.catalina.connector.Connector pause
+SEVERE: Protocol handler pause failed
+java.lang.NullPointerException
+	at org.apache.jk.server.JkMain.pause(JkMain.java:679)
+	at org.apache.jk.server.JkCoyoteHandler.pause(JkCoyoteHandler.java:153)
+	at org.apache.catalina.connector.Connector.pause(Connector.java:1073)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:563)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:628)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:671)
+Apr 3, 2008 7:58:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 7:58:35 PM org.apache.catalina.connector.MapperListener destroy
+WARNING: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:162)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1179)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:593)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:628)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:671)
+Apr 3, 2008 7:58:35 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 7:58:35 PM org.apache.catalina.connector.Connector stop
+SEVERE: Coyote connector has not been started
+Apr 3, 2008 8:02:15 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:02:16 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 8:02:16 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:02:18 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 8:02:18 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:02:18 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 445 ms
+Apr 3, 2008 8:02:18 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 8:02:18 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 8:02:19 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 8:02:19 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 8:02:19 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:03:49 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 8:05:18 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 8:05:18 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/78  config=null
+Apr 3, 2008 8:05:18 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 179206 ms
+Apr 3, 2008 8:05:18 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:05:19 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 8:05:19 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:06:45 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 8:06:45 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:06:45 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 584 ms
+Apr 3, 2008 8:06:45 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 8:06:45 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 8:06:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 8:06:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 8:06:47 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 8:06:47 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 8:06:47 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 8:06:47 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1503 ms
+Apr 3, 2008 8:06:47 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 8:06:47 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 8:10:24 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 8:10:24 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 8:10:32 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 8:10:32 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 8:15:48 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 8:15:48 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 8:25:25 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 8:26:53 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 8:26:59 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 8:46:07 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 8:46:09 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 8:46:09 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 9:08:48 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/manager]
+Apr 3, 2008 9:08:48 PM org.apache.catalina.startup.ContextConfig validateSecurityRoles
+INFO: WARNING: Security role name manager used in an <auth-constraint> without being defined in a <security-role>
+Apr 3, 2008 9:09:08 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/manager]
+Apr 3, 2008 9:09:33 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 9:09:40 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 9:10:52 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Apr 3, 2008 9:16:54 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 9:20:34 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 9:20:35 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 9:20:35 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 9:51:44 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 9:51:44 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 594 ms
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 9:51:44 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 9:51:44 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 9:51:44 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 9:51:44 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 9:51:44 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 706 ms
+Apr 3, 2008 9:51:45 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 9:54:25 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 9:54:26 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 9:55:15 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 9:55:15 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 9:56:30 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 9:56:30 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 9:56:42 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 9:56:42 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:02:29 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 10:02:30 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 10:02:30 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 10:02:34 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 10:02:34 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 10:02:34 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 426 ms
+Apr 3, 2008 10:02:34 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 10:02:34 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 10:02:34 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 10:02:34 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 10:02:34 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 10:02:34 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 10:02:34 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+Apr 3, 2008 10:02:34 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 663 ms
+Apr 3, 2008 10:02:44 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Setup]
+Apr 3, 2008 10:08:58 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:08:59 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:12:23 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:12:23 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:15:52 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:15:52 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:20:37 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:20:38 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:24:07 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:24:07 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:24:58 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:24:58 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:31:45 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:31:45 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 10:34:07 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 10:34:07 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:10:43 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:10:43 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:11:51 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:11:52 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:17:52 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:17:52 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Apr 3, 2008 11:26:28 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:26:28 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:30:06 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:30:06 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:39:14 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Setup]
+Apr 3, 2008 11:39:14 PM org.apache.catalina.core.StandardContext start
+INFO: Container org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/Setup] has already been started
+Apr 3, 2008 11:59:49 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 11:59:50 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Apr 3, 2008 11:59:50 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 11:59:54 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.6.0\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PHP\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\MySQL\MySQL Server 5.0\bin;C:\Program Files\Java\jdk1.6.0\bin
+Apr 3, 2008 11:59:54 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 11:59:54 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 447 ms
+Apr 3, 2008 11:59:54 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Apr 3, 2008 11:59:54 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.16
+Apr 3, 2008 11:59:55 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.ContextListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 11:59:55 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "listeners.SessionListener" is already configured for this context. The duplicate definition has been ignored.
+Apr 3, 2008 11:59:55 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8085
+Apr 3, 2008 11:59:55 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Apr 3, 2008 11:59:55 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Apr 3, 2008 11:59:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 692 ms

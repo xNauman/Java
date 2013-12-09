@@ -1,0 +1,23 @@
+The purpose of this code is to show how a single RMI 
+registry can be used without the need to broadcast IPs.
+
+Basically the RMIRegistry is started, and remains operational.
+The Servers connect to the RMIRegistry using the IP and Port for
+	the RMIRegistry.
+
+The Clients access the Servers by 'connecting' to the RMI registry
+	(using the IP and port).
+
+
+
+***********************************
+
+How to operate:
+
+1. Run rmi.RMIRegistry
+2. Run rmiServer1.RMIServer_1
+3. Run rmiServer2.RMIServer_2
+4. Run either RMI client: rmiClient1.RMIClient_1. You will note there is output.
+
+
+(IDE used: Eclipse)

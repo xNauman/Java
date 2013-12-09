@@ -1,0 +1,97 @@
+application.title=PBSS - City Map Editor
+application.vendor=Iroquois
+auxiliary.org-netbeans-modules-editor-indent.CodeStyle.project.tab-size=8
+auxiliary.org-netbeans-modules-editor-indent.CodeStyle.project.text-limit-width=80
+auxiliary.org-netbeans-modules-editor-indent.CodeStyle.usedProfile=default
+build.classes.dir=${build.dir}/classes
+build.classes.excludes=**/*.java,**/*.form
+# This directory is removed when the project is cleaned:
+build.dir=build
+build.generated.dir=${build.dir}/generated
+build.generated.sources.dir=${build.dir}/generated-sources
+# Only compile against the classpath explicitly listed here:
+build.sysclasspath=ignore
+build.test.classes.dir=${build.dir}/test/classes
+build.test.results.dir=${build.dir}/test/results
+debug.classpath=\
+    ${run.classpath}
+debug.test.classpath=\
+    ${run.test.classpath}
+# This directory is removed when the project is cleaned:
+dist.dir=dist
+dist.jar=${dist.dir}/itc.pbss.cme.final.jar
+dist.javadoc.dir=${dist.dir}/javadoc
+excludes=
+file.reference.=..
+file.reference.-1=..\\..\\..\\
+file.reference.jdic.jar=lib/jdic.jar
+file.reference.jdic.jar-1=lib\\jdic.jar
+file.reference.jdic_native_applet.jar=lib/jdic_native_applet.jar
+file.reference.jdic_native_applet.jar-1=lib\\jdic_native_applet.jar
+file.reference.jdic_stub_windows.jar=lib/jdic_stub_windows.jar
+file.reference.jdic_stub_windows.jar-1=lib\\jdic_stub_windows.jar
+file.reference.Map_Object.jar=lib/Map_Object.jar
+file.reference.Map_Object.jar-1=lib\\Map_Object.jar
+file.reference.ObjectSerialize.jar=lib/ObjectSerialize.jar
+file.reference.ObjectSerialize.jar-1=lib\\ObjectSerialize.jar
+file.reference.RMI.jar=lib/RMI.jar
+file.reference.RMI.jar-1=lib\\RMI.jar
+includes=**
+jar.compress=false
+javac.classpath=\
+    ${file.reference.jdic.jar}:\
+    ${file.reference.jdic_native_applet.jar}:\
+    ${file.reference.jdic_stub_windows.jar}:\
+    ${file.reference.Map_Object.jar}:\
+    ${file.reference.ObjectSerialize.jar}:\
+    ${file.reference.RMI.jar}:\
+    ${file.reference.jdic.jar-1}:\
+    ${file.reference.jdic_native_applet.jar-1}:\
+    ${file.reference.jdic_stub_windows.jar-1}:\
+    ${file.reference.Map_Object.jar-1}:\
+    ${file.reference.ObjectSerialize.jar-1}:\
+    ${file.reference.RMI.jar-1}
+# Space-separated list of extra javac options
+javac.compilerargs=
+javac.deprecation=false
+javac.source=1.5
+javac.target=1.5
+javac.test.classpath=\
+    ${javac.classpath}:\
+    ${build.classes.dir}:\
+    ${libs.junit.classpath}:\
+    ${libs.junit_4.classpath}
+javadoc.additionalparam=-subpackages cme -exclude cme.gui
+javadoc.author=true
+javadoc.encoding=${source.encoding}
+javadoc.noindex=false
+javadoc.nonavbar=false
+javadoc.notree=false
+javadoc.private=false
+javadoc.splitindex=true
+javadoc.use=true
+javadoc.version=false
+javadoc.windowtitle=
+jnlp.codebase.type=local
+jnlp.codebase.url=file:/C:/CME_RC2/dist
+jnlp.descriptor=application
+jnlp.enabled=false
+jnlp.offline-allowed=false
+jnlp.signed=false
+main.class=cme.gui.CityMapEditor
+manifest.file=manifest.mf
+meta.inf.dir=${src.dir}/META-INF
+platform.active=JDK_1.6
+run.classpath=\
+    ${javac.classpath}:\
+    ${build.classes.dir}
+# Space-separated list of JVM arguments used when running the project
+# (you may also define separate properties like run-sys-prop.name=value instead of -Dname=value
+# or test-sys-prop.name=value to set system properties for unit tests):
+run.jvmargs=-Djava.security.policy=wideopen.policy
+run.test.classpath=\
+    ${javac.test.classpath}:\
+    ${build.test.classes.dir}
+source.encoding=UTF-8
+src.dir=src
+test.src.dir=test
