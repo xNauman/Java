@@ -1,3 +1,0 @@
-cd C:\Documents and Settings\chak0003\Desktop\Setup\build\web\WEB-INF\classes\
-java -classpath ".;cd C:\Documents and Settings\chak0003\Desktop\Setup\build\web\WEB-INF\classes\;C:\Documents and Settings\chak0003\Desktop\Setup\db.jar;C:\Documents and Settings\chak0003\Desktop\Setup\CME_0330.jar;C:\Documents and Settings\chak0003\Desktop\Setup\controlpack.jar;C:\Documents and Settings\chak0003\Desktop\Setup\SCHFull.jar" setup.rmi.SetupServer
-pause
